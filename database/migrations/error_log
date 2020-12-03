@@ -1,0 +1,1 @@
+[03-Apr-2020 08:21:46 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/websquar/publicshipping.websquareit.com/demo/database/migrations/2020_04_02_084030_create_travellers_table.php on line 7
